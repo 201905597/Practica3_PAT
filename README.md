@@ -55,7 +55,7 @@ Ver página principal, página de "Hazte Cliente"...
 Ver página principal
 > - Objetos de paginación
 
-Ver cultura.html
+Ver cultura.html, cultura2 y cultura3
 > - Carousel
 
 Página principal y Hazte Cliente
