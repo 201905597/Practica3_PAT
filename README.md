@@ -43,7 +43,7 @@ En todas las páginas
 En todas las páginas
 > - Tipografía 
 
-Títulos y párrafos con Display
+Títulos y párrafos con Display, párrafos con partes en negrita... 
 > - Tablas
 
 Ver Cuenta Cero y Cuenta Metas (se puede acceder desde la página principal index.html)
